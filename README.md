@@ -6,6 +6,6 @@ This repoository will outline how to complete the time series project from DS 40
 
 ## Data
 
-I obtained the data from the Transportation section of the Chicago Data Portal, which you can access here: Link. Use the query function on the website to filter the data for trips occurring between October 1 and October 30, 2023. However, the original and cleaned data is availbale in the folder named Data. 
+I obtained the data from the Transportation section of the Chicago Data Portal, which you can access here: https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data. Use the query function on the website to filter the data for trips occurring between October 1 and October 30, 2023. However, the original and cleaned data is availbale in the folder named Data. 
 
 
